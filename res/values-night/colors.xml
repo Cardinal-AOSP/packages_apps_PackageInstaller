@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<color name="grant_permissions_progress_color">#FF27e4a0</color>
+<color name="grant_permissions_app_color">#FF27e4a0</color>
+<color name="primary_material_dark">@*android:color/cardinal_dark_indigo</color>
+<color name="primary_material_light">@*android:color/cardinal_dark_indigo</color>
+<color name="primary_dark_material_dark">@*android:color/cardinal_dark_indigo</color>
+<color name="primary_dark_material_light">@*android:color/cardinal_dark_indigo</color>
+</resources>
