@@ -60,7 +60,6 @@
         <TextView android:id="@+id/version_check"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="?android:attr/colorPrimary"
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:paddingStart="16dp"
             android:paddingEnd="16dp" />
@@ -137,5 +136,3 @@
     </LinearLayout>
 
 </LinearLayout>
-
-
